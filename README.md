@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm a Software Engineer, CNAM University Student. I work on my own projecy mostly, Will see contributions here and there.
 ![My Skills](https://skillicons.dev/icons?i=bootstrap,c,css,docker,eclipse,stackoverflow,gcp,git,github,html,idea,javascript,powershell,vscode&theme=dark)
 <!--
 **HassanIb02/HassanIb02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
