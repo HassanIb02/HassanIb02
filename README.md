@@ -1,7 +1,22 @@
 ## Hi there 👋
 I'm a Software Engineer, CNAM University Student. I work on my own projecy mostly. you might see contributions here and there.
 
-![My Skills](https://skillicons.dev/icons?i=bootstrap,c,css,docker,eclipse,stackoverflow,gcp,git,github,html,idea,javascript,powershell,vscode&theme=dark)
+
+## 🧑‍💻 Programming Languages
+![My Skills](https://skillicons.dev/icons?i=c,javascript,powershell&theme=dark)
+
+## 🌐 Frontend Development
+![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap&theme=dark)
+
+## ☁️ Cloud & DevOps
+![My Skills](https://skillicons.dev/icons?i=docker,gcp&theme=dark)
+
+## 🛠️ Tools & IDEs
+![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,idea&theme=dark)
+
+## 🔄 Version Control & Collaboration
+![My Skills](https://skillicons.dev/icons?i=git,github,stackoverflow&theme=dark)
+
 <!--
 **HassanIb02/HassanIb02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
