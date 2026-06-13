@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a Software Engineer, CNAM University Student. I work on my own projecy mostly. you might see contributions here and there.
+I'm a Software Engineer, CNAM University Student. I work on my own projects mostly. you might see contributions here and there.
 
 ![My Skills](https://skillicons.dev/icons?i=c,java,spring,javascript,powershell,html,css,docker,gcp,git,github,stackoverflow,vscode,eclipse,idea&theme=dark)
 
